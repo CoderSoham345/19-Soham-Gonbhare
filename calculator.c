@@ -1,7 +1,7 @@
 /*
   Roll No.: 19
   Student Name:Soham Gonbhare
-  Program Title:calculator with basic opertions and trigonometric functions and simultaneous equations.
+  Program Title:Scientific calculator with basic opertions and trigonometric functions and simultaneous equations.
 
   Task Given By:
     - Roll No. of Assignee:18
